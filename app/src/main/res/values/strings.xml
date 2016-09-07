@@ -2,4 +2,5 @@
     <string name="app_name">Hello Android</string>
     <string name="hello_world">Hello world!</string>
     <string name="hello_world_land">Hello landscape world!</string>
+    <string name="another_string">Here is a another sample text.</string>
 </resources>
